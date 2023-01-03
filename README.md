@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   online courses
   
 <a href="mailto: lozano.yashmin@gmail.com">
-<img src="https://img.shields.io/badge/-lozano.yashmin%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/maryanneyashminlozano/"><img src="https://img.shields.io/badge/Yashmin Lozano-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://www.instagram.com/yashii.gif/">   <img src="https://img.shields.io/badge/@yashii.gif-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<img src="https://img.shields.io/badge/-lozano.yashmin%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> <a href="https://www.linkedin.com/in/mary-anne-yashmin-lozano/"><img src="https://img.shields.io/badge/Yashmin Lozano-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" ></a> <a  href="https://www.instagram.com/yashii.gif/">   <img src="https://img.shields.io/badge/@yashii.gif-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
   
 ### Hobbies:
   - Coding 👩‍💻
