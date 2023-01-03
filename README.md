@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 ### Hobbies:
   - Coding 👩‍💻
   - Playing FPS games 🎮
+  - Digital Art 🎨
   
 ### Skills:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
