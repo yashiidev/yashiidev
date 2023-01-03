@@ -10,7 +10,8 @@ Here are some ideas to get you started:
   DEGREE IN INFORMATION TECHNOLOGY. I currently into broadening my knowledge in Front End Development (HTML, CSS, and JavaScript) with the help of both paid and free 
   online courses
   
-
+<a href="mailto: lozano.yashmin@gmail.com">
+<img src="https://img.shields.io/badge/-lozano.yashmin%40gmail.com-7B83EB?&style=for-the-badge&logo=Microsoft-outlook&logoColor=white" ></a> 
   
 ### Hobbies:
   - Coding 👩‍💻
