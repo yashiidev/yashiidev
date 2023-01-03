@@ -10,6 +10,8 @@ Here are some ideas to get you started:
   DEGREE IN INFORMATION TECHNOLOGY. I currently into broadening my knowledge in Front End Development (HTML, CSS, and JavaScript) with the help of both paid and free 
   online courses
   
+
+  
 ### Hobbies:
   - Coding 👩‍💻
   - Playing FPS games 🎮
@@ -18,5 +20,5 @@ Here are some ideas to get you started:
 [![My Skills](https://skillicons.dev/icons?i=js,html,css)](https://skillicons.dev)
 
 - 🍳 I’m currently expanding my knowledge in CSS
-- 📫 Email me here: lozano.yashmin@gmail.com
+- 📫 Email me here: <a href="mailto: lozano.yashmin@gmail.com">lozano.yashmin@gmail.com</a>
 - 🍕 Pronouns: She/Her
